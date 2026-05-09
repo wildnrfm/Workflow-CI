@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/317717287227008984/357a2f94dc8f40dab0b05667de7c3f50/artifacts
+end_time: 1778344372472
+entry_point_name: ''
+experiment_id: '317717287227008984'
+lifecycle_stage: active
+run_id: 357a2f94dc8f40dab0b05667de7c3f50
+run_name: sedate-bear-64
+run_uuid: 357a2f94dc8f40dab0b05667de7c3f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778344356464
+status: 3
+tags: []
+user_id: runner

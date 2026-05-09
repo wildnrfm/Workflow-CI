@@ -1,0 +1,6 @@
+artifact_location: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/317717287227008984
+creation_time: 1778344356428
+experiment_id: '317717287227008984'
+last_update_time: 1778344356428
+lifecycle_stage: active
+name: diabetes-ci
